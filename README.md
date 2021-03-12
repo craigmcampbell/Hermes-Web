@@ -2,7 +2,7 @@
 
 Hermes is a templated email delivery system. It's a centralized place to manage email delivery for any number of projects.
 
-🖥 [Hermes API](https://github.com/craigmcampbell/Hermes-API)
+🖥 [Hermes API](https://github.com/craigmcampbell/Hermes-API) - API application to support Hermes functionality
 
 #### Features
 * Manage email templates for specific projects
