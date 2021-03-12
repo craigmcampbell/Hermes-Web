@@ -12,4 +12,4 @@ Features
 * View email history
 
 Technologies
-React | Tailwind | Node/Express | TypeScript | GraphQL | MongoDB | PostgreSQL | SendGrid
+React | Tailwind | TypeScript
